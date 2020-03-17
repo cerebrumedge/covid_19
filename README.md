@@ -12,7 +12,7 @@ Derived Columns:
 1. percentage_case_growth (compared to previous day)
 2. days_since_100 (number of days since the country crossed 100 confirmed cases)
 
-![Alt text](images/Above_1000.jpeg?raw=true "Confirmed Cases Growth")
+![Alt text](images/ItalyvsSK.jpeg?raw=true "Confirmed Cases Growth")
 
 Notes:  
 16-March-2020: WHO data is primarily used for consistency, duration and coverage   
