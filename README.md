@@ -12,6 +12,8 @@ Derived Columns:
 1. percentage_case_growth (compared to previous day)
 2. days_since_100 (number of days since the country crossed 100 confirmed cases)
 
+# Italy vs South Korea
+
 ![Alt text](images/ItalyvsSK.jpeg?raw=true "Confirmed Cases Growth")
 
 Notes:  
