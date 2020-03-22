@@ -5,8 +5,8 @@
 - Graphs and R code
 
 Data Source:
-1. WHO Situation Report 
-2. https://ourworldindata.org/
+1. https://ourworldindata.org/
+2. European Centre for Disease Prevention and Control (ECDC)
 
 Derived Columns:
 1. percentage_case_growth (compared to previous day)
@@ -17,6 +17,4 @@ Derived Columns:
 ![Alt text](images/ItalyvsSK.jpeg?raw=true "Confirmed Cases Growth")
 
 Notes:  
-16-March-2020: WHO data is primarily used for consistency, duration and coverage   
-16-March-2020: WHO report is not updated with USA data for 15th and 16th of March. CDC data is used for 16th of March. It will be updated as soon as data from WHO is available.  
-16-March-2020: Data for Guyana is not consistent. It will be updated later.  
+22-March-2020: Primary Data source changed from WHO to ECDC. (Due to change in reporting timing and additional inconsistencies in WHO data)   
