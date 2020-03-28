@@ -14,7 +14,7 @@ Derived Columns:
 
 # Italy vs South Korea
 
-![Alt text](images/ItalyvsSK.jpeg?raw=true "Confirmed Cases Growth")
+![Alt text](images/Total_Cases_2803.jpeg?raw=true "Confirmed Cases Growth")
 
 Notes:  
 22-March-2020: Primary Data source changed from WHO to ECDC. (Due to change in reporting timing and additional inconsistencies in WHO data)   
