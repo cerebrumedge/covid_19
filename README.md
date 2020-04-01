@@ -14,7 +14,7 @@ Derived Columns:
 
 # Confirmed Cases
 
-![Alt text](images/total_Cases_0104.png?raw=true "Confirmed Cases Growth")
+![Alt text](images/Total_cases_0104.jpeg?raw=true "Confirmed Cases Growth")
 
 Notes:  
 22-March-2020: Primary Data source changed from WHO to ECDC. (Due to change in reporting timing and additional inconsistencies in WHO data)   
